@@ -40,7 +40,7 @@ A Java-based messaging application that allows users to send, store, and manage 
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/MasterHK-arch/QuickChat_v3.git
 ```
 
 2. Navigate to the project directory:
