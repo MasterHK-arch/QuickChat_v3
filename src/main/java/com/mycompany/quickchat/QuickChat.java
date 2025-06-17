@@ -22,7 +22,7 @@ public class QuickChat {
         if (!login()) {
             System.exit(0);
         }
-        asdasdasas
+   
         String numMessagesStr = JOptionPane.showInputDialog("How many messages to send?");
         int maxMessages;
         try {
